@@ -1,0 +1,22 @@
+{
+  "name": "arbitrage-opportunity-seeker",
+  "version": "1.0.0",
+  "description": "This project scans through a list of Uniswap v3 pool pairs and, for a given block number, fetches essential data from each pool to determine whether the price difference (i.e. tick difference) falls within a desired range.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "scan": "node src/index.js scan",
+    "simulate": "node src/index.js simulate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bordolot/arbitrage-opportunity-seeker.git"
+  },
+  "author": "Michał Kolenda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bordolot/arbitrage-opportunity-seeker/issues"
+  },
+  "homepage": "https://github.com/bordolot/arbitrage-opportunity-seeker#readme"
+}
