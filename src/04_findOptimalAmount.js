@@ -71,19 +71,17 @@ function createArbitrageResult(
     token1,
     poolYouCanCallFlash,
     backupPoolYouCanCallFlash,
-    poolAddrToStart,
-    tokenAddrToStart,
     numberOfTokensToStart,
     estimatedProfit
 ) {
     return {
         "poolsForArbitrage": [
             {
-                "addr": poolAddr1,
+                "poolAddr1": poolAddr1,
                 "feeLvl": poolFee1
             },
             {
-                "addr": poolAddr2,
+                "poolAddr2": poolAddr2,
                 "feeLvl": poolFee2
             }
         ],
@@ -93,8 +91,6 @@ function createArbitrageResult(
         },
         "poolYouCanCallFlash": poolYouCanCallFlash,
         "backupPoolYouCanCallFlash": backupPoolYouCanCallFlash,
-        "poolAddrToStart": poolAddrToStart,
-        "tokenAddrToStart": tokenAddrToStart,
         "numberOfTokensToStart": numberOfTokensToStart,
         "estimatedProfit": estimatedProfit
     };
@@ -386,19 +382,17 @@ async function find() {
             // console.log("================");
 
             /// Token to start arbitrage is always token0!!!!!
-            /// There only be a different pool in pair
+            /// The difference can be in pool order in pair
             newResults.push(
                 createArbitrageResult(
-                    poolAddr_1,
-                    fee_1,
-                    poolAddr_2,
-                    fee_2,
+                    (firstPoolHigherPrice ? poolAddr_1 : poolAddr_2),
+                    (firstPoolHigherPrice ? fee_1 : fee_2),
+                    (firstPoolHigherPrice ? poolAddr_2 : poolAddr_1),
+                    (firstPoolHigherPrice ? fee_2 : fee_1),
                     token0,
                     token1,
                     poolsForFlash[0],
                     (poolsForFlash.length > 1 ? poolsForFlash[0] : "there is no other pool you can flash"),
-                    (firstPoolHigherPrice ? poolAddr_1 : poolAddr_2),
-                    token0,
                     step.amountIn.toString(),
                     (step.amountOut - step.amountIn).toString()
                 ));
