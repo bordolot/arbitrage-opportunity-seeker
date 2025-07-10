@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js",
-    "scan": "node src/index.js scan",
+    "scanpools": "node src/index.js scanpools",
+    "scanpoolstest": "node src/index.js scanpoolstest",
+    "getpoolsdata": "node src/index.js getpoolsdata",
     "simulate": "node src/index.js simulate"
   },
   "repository": {
@@ -18,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/bordolot/arbitrage-opportunity-seeker/issues"
   },
-  "homepage": "https://github.com/bordolot/arbitrage-opportunity-seeker#readme"
+  "homepage": "https://github.com/bordolot/arbitrage-opportunity-seeker#readme",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "ethers": "^6.13.7",
+    "fs-extra": "^11.3.0"
+  }
 }
