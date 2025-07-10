@@ -3,13 +3,13 @@ const fs = require('fs-extra');
 
 const { simulateSwap } = require("./uniswapLibs/swapSimulation.js");
 const { createTickBitmapObject, getTickSpacing } = require("./getUniswapData/getDataForOportunities");
+require('dotenv').config({ debug: false, override: false, quiet: true });
 
 
 const { opportunityResultsFile, poolsTicksLiqsFile, optimalAmountsFile, directoryExists } = require('./paths');
 
+const BLOCK_NUMBER = Number(process.env.BLOCK_NUMBER);
 
-
-const fileOutput = './NetworkResults/optimalAmounts.json';
 
 const DECIMALS_6 = 1e6;
 const DECIMALS_18 = 1e18;
@@ -75,6 +75,7 @@ function createArbitrageResult(
     estimatedProfit
 ) {
     return {
+        "block_number": BLOCK_NUMBER,
         "poolsForArbitrage": [
             {
                 "poolAddr1": poolAddr1,
@@ -389,8 +390,8 @@ async function find() {
                     (firstPoolHigherPrice ? fee_1 : fee_2),
                     (firstPoolHigherPrice ? poolAddr_2 : poolAddr_1),
                     (firstPoolHigherPrice ? fee_2 : fee_1),
-                    token0,
-                    token1,
+                    toChecksummedAddress(token0),
+                    toChecksummedAddress(token1),
                     poolsForFlash[0],
                     (poolsForFlash.length > 1 ? poolsForFlash[0] : "there is no other pool you can flash"),
                     step.amountIn.toString(),
