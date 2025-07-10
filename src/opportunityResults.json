@@ -1,0 +1,4482 @@
+[
+  {
+    "0x7858E59e0C01EA06Df3aF3D20aC7B0003275D4Bf": {
+      "sqrtPriceX96": "79219885176320919221317484974",
+      "tick": "-3",
+      "observationIndex": "32",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "750532903029825",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0xEe4Cf3b78A74aFfa38C6a926282bCd8B5952818d": {
+      "sqrtPriceX96": "79227502649051900411163448504",
+      "tick": "-1",
+      "observationIndex": "20",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "56828753761261",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x7858E59e0C01EA06Df3aF3D20aC7B0003275D4Bf": {
+      "sqrtPriceX96": "79219885176320919221317484974",
+      "tick": "-3",
+      "observationIndex": "32",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "750532903029825",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0xbb256c2F1B677e27118b0345FD2b3894D2E6D487": {
+      "sqrtPriceX96": "79459996032726246641433835857",
+      "tick": "58",
+      "observationIndex": "32",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "12109533123",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0xEe4Cf3b78A74aFfa38C6a926282bCd8B5952818d": {
+      "sqrtPriceX96": "79227502649051900411163448504",
+      "tick": "-1",
+      "observationIndex": "20",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "56828753761261",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0xbb256c2F1B677e27118b0345FD2b3894D2E6D487": {
+      "sqrtPriceX96": "79459996032726246641433835857",
+      "tick": "58",
+      "observationIndex": "32",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "12109533123",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x6f48ECa74B38d2936B02ab603FF4e36A6C0E3A77": {
+      "sqrtPriceX96": "79210134352205512066651",
+      "tick": "-276329",
+      "observationIndex": "12",
+      "observationCardinality": "20",
+      "observationCardinalityNext": "20",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "43771825155557120858",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0x4773E2C1c0B400a16DfeC4ca6E305141859a5542": {
+      "sqrtPriceX96": "79116577707319430257679",
+      "tick": "-276353",
+      "observationIndex": "15",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "606590952538562",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0x36F7273afb18A3F2fDd07e3Ac1c28E65d7ea8f07": {
+      "sqrtPriceX96": "356544121490082259249648",
+      "tick": "-246240",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "617903905958244",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0x3470447f3CecfFAc709D3e783A307790b0208d60": {
+      "sqrtPriceX96": "219448224561761040537209",
+      "tick": "-255948",
+      "observationIndex": "49",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3390211671396416309",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x2CFC37C3a9FDC103374C2c343c48FeF27c646b0A": {
+      "sqrtPriceX96": "79222146965856964784347362117",
+      "tick": "-2",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "12136474517174",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    },
+    "0xDd2e0D86A45e4EF9bd490c2809E6405720cC357c": {
+      "sqrtPriceX96": "79132620439679564291727701975",
+      "tick": "-25",
+      "observationIndex": "2",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "144747733478868",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    }
+  },
+  {
+    "0x1dEe9d7b7cFd8Febf38982bC8Ab715eC8c3050d1": {
+      "sqrtPriceX96": "34408736128596771120931",
+      "tick": "-293006",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "346034073588856",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    },
+    "0xa21Ed0Af81d7cdaEbD06d1150C166821cFCD64FF": {
+      "sqrtPriceX96": "36931675796993083481412",
+      "tick": "-291591",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "48869732570170",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    }
+  },
+  {
+    "0x371A0985d104c706cafA26FfB990F55Ba55BF6C5": {
+      "sqrtPriceX96": "101772750487198841985377",
+      "tick": "-271316",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "8870238786601161",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a": "18"
+      }
+    },
+    "0xA4Ca754aBBE392c635F795E092f7Fe6307D0088D": {
+      "sqrtPriceX96": "101737188729265758822987",
+      "tick": "-271323",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "12588099421389430",
+      "adresy": {
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6",
+        "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a": "18"
+      }
+    }
+  },
+  {
+    "0xe9131A276FD07AF729B5537A429346e8AfFc67e0": {
+      "sqrtPriceX96": "273617757486673936841",
+      "tick": "-389697",
+      "observationIndex": "12",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "139514599475275118",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    },
+    "0xA15cc73E881c06D8DB06b50b7a3688B763C18350": {
+      "sqrtPriceX96": "271591403152730691882",
+      "tick": "-389846",
+      "observationIndex": "45",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "4265640172196284950",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    }
+  },
+  {
+    "0x6c6Bc977E13Df9b0de53b251522280BB72383700": {
+      "sqrtPriceX96": "79234237333443263174979",
+      "tick": "-276323",
+      "observationIndex": "227",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "10494252294757618044826",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0xa63b490aA077f541c9d64bFc1Cc0db2a752157b5": {
+      "sqrtPriceX96": "79327418580591945232099",
+      "tick": "-276299",
+      "observationIndex": "17",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "10373484874050825",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0x6c6Bc977E13Df9b0de53b251522280BB72383700": {
+      "sqrtPriceX96": "79234237333443263174979",
+      "tick": "-276323",
+      "observationIndex": "227",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "10494252294757618044826",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0x6958686b6348c3D6d5f2dCA3106A5C09C156873a": {
+      "sqrtPriceX96": "78962261590664708929949",
+      "tick": "-276392",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "163620348564489",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0xa63b490aA077f541c9d64bFc1Cc0db2a752157b5": {
+      "sqrtPriceX96": "79327418580591945232099",
+      "tick": "-276299",
+      "observationIndex": "17",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "10373484874050825",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0x6958686b6348c3D6d5f2dCA3106A5C09C156873a": {
+      "sqrtPriceX96": "78962261590664708929949",
+      "tick": "-276392",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "163620348564489",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0xD0fC8bA7E267f2bc56044A7715A489d851dC6D78": {
+      "sqrtPriceX96": "219535424410110202725700",
+      "tick": "-255940",
+      "observationIndex": "502",
+      "observationCardinality": "1440",
+      "observationCardinalityNext": "1440",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "61229007116643918",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0xE845469aAe04f8823202b011A848cf199420B4C1": {
+      "sqrtPriceX96": "210829393681734914230764",
+      "tick": "-256749",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "198479259663",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0xaA4C9d6E5e349f319aBb625aa8dca5F52AbEA757": {
+      "sqrtPriceX96": "79243829632400722523786010536",
+      "tick": "3",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "162898144122443",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    },
+    "0xd3F5c377A8506af29AEAfBc90D1E5C6534f197b4": {
+      "sqrtPriceX96": "79256862704181352706085482122",
+      "tick": "7",
+      "observationIndex": "5",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "7670307758064",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    }
+  },
+  {
+    "0x47bDE1364cB8Cfe45B59e261CC66AA551f1F7954": {
+      "sqrtPriceX96": "109685129538007437441794362638990186",
+      "tick": "282829",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2239697708818203",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xD533a949740bb3306d119CC777fa900bA034cd52": "18"
+      }
+    },
+    "0x9445bd19767F73DCaE6f2De90e6cd31192F62589": {
+      "sqrtPriceX96": "110093321688732397103210089099948992",
+      "tick": "282904",
+      "observationIndex": "8",
+      "observationCardinality": "10",
+      "observationCardinalityNext": "10",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "771766258471130777",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xD533a949740bb3306d119CC777fa900bA034cd52": "18"
+      }
+    }
+  },
+  {
+    "0x5aE13BAAEF0620FdaE1D355495Dc51a17adb4082": {
+      "sqrtPriceX96": "4556201894752721492251189",
+      "tick": "-195282",
+      "observationIndex": "0",
+      "observationCardinality": "5",
+      "observationCardinalityNext": "5",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "442122834862159397",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    },
+    "0xB431c70f800100D87554ac1142c4A94C5Fe4C0C4": {
+      "sqrtPriceX96": "4558453864854183257818793",
+      "tick": "-195272",
+      "observationIndex": "37",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "981573233462546625",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    }
+  },
+  {
+    "0x5aE13BAAEF0620FdaE1D355495Dc51a17adb4082": {
+      "sqrtPriceX96": "4556201894752721492251189",
+      "tick": "-195282",
+      "observationIndex": "0",
+      "observationCardinality": "5",
+      "observationCardinalityNext": "5",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "442122834862159397",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    },
+    "0x1D61fB4c87361F27bD3BE39A06d1A19f0c5d696B": {
+      "sqrtPriceX96": "4572836150524051604519454",
+      "tick": "-195209",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1319412678304848",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    }
+  },
+  {
+    "0xB431c70f800100D87554ac1142c4A94C5Fe4C0C4": {
+      "sqrtPriceX96": "4558453864854183257818793",
+      "tick": "-195272",
+      "observationIndex": "37",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "981573233462546625",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    },
+    "0x1D61fB4c87361F27bD3BE39A06d1A19f0c5d696B": {
+      "sqrtPriceX96": "4572836150524051604519454",
+      "tick": "-195209",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1319412678304848",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x45804880de22913dafe09f4980848ece6ecbaf78": "18"
+      }
+    }
+  },
+  {
+    "0x619154DBD96b4c1A8112651DB9A451E475daf77F": {
+      "sqrtPriceX96": "17871458731645180992650970469052752",
+      "tick": "246539",
+      "observationIndex": "16",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "535480741863994",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72": "18"
+      }
+    },
+    "0x5F7E8408e573e934B0df49Ba5b569c30f1eBBaD4": {
+      "sqrtPriceX96": "18303037407401740532569253124958236",
+      "tick": "247017",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3928266501391328",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72": "18"
+      }
+    }
+  },
+  {
+    "0x975C822e26A514e7a1B75be587AeFC738a73EEE7": {
+      "sqrtPriceX96": "44655301425567141517646137400",
+      "tick": "-11468",
+      "observationIndex": "34",
+      "observationCardinality": "41",
+      "observationCardinalityNext": "41",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "565644692",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": "6"
+      }
+    },
+    "0x7920CEfBb85B3B5cC65Ce20411223F42A4AEBf06": {
+      "sqrtPriceX96": "67515686935372147131070722803",
+      "tick": "-3200",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "212237775",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x467719aD09025FcC6cF6F8311755809d45a5E5f3": "6"
+      }
+    }
+  },
+  {
+    "0x81AEE07F99be78d88881Fa6D98FEFF7555113635": {
+      "sqrtPriceX96": "27200052184652535439022",
+      "tick": "-297708",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1655403685205647507",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x66761fa41377003622aee3c7675fc7b5c1c2fac5": "18"
+      }
+    },
+    "0xA7600C4fBdDB57e44018BEE74A5f6b636Cb68352": {
+      "sqrtPriceX96": "26700333736628738676052",
+      "tick": "-298079",
+      "observationIndex": "2",
+      "observationCardinality": "76",
+      "observationCardinalityNext": "76",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "280208441277554",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x66761fa41377003622aee3c7675fc7b5c1c2fac5": "18"
+      }
+    }
+  },
+  {
+    "0xA81259B17ba0E2599531dE32445c87225b636632": {
+      "sqrtPriceX96": "33403885379167726037871",
+      "tick": "-293599",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "7699543089870",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    },
+    "0x5E008a2897A0c99E8E30E381C5Fc99054722de30": {
+      "sqrtPriceX96": "60876807133031495829522",
+      "tick": "-281594",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "311902949904323",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    }
+  },
+  {
+    "0x5aA1356999821b533EC5d9f79c23B8cB7c295C61": {
+      "sqrtPriceX96": "7923235374409272405987492368854",
+      "tick": "92109",
+      "observationIndex": "1",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "1107259005158",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": "2"
+      }
+    },
+    "0x93f267fD92B432BeBf4dA4E13B8615Bb8Eb2095C": {
+      "sqrtPriceX96": "7929696477014635082457769674114",
+      "tick": "92125",
+      "observationIndex": "52",
+      "observationCardinality": "64",
+      "observationCardinalityNext": "64",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "14850764845",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd": "2"
+      }
+    }
+  },
+  {
+    "0xd6A309F49cF79542cEa91dF7B334EB4bD29aA0D7": {
+      "sqrtPriceX96": "172082173546411149053846229184378068",
+      "tick": "291837",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2003321442201",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6": "18"
+      }
+    },
+    "0x8592064903eF23d34E4d5aAAEd40ABF6d96Af186": {
+      "sqrtPriceX96": "203591760975388254912552067527443325",
+      "tick": "295200",
+      "observationIndex": "35",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3674971269550939274",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6": "18"
+      }
+    }
+  },
+  {
+    "0x8c54aA2A32a779e6f6fBea568aD85a19E0109C26": {
+      "sqrtPriceX96": "79188567880685339356673",
+      "tick": "-276335",
+      "observationIndex": "117",
+      "observationCardinality": "120",
+      "observationCardinalityNext": "120",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "45010838201217816",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x956F47F50A910163D8BF957Cf5846D573E7f87CA": "18"
+      }
+    },
+    "0x5180545835bd68810fB7e11c7160bb7Ea4aE8744": {
+      "sqrtPriceX96": "79152713795790878337818",
+      "tick": "-276344",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "4925557930058627",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x956F47F50A910163D8BF957Cf5846D573E7f87CA": "18"
+      }
+    }
+  },
+  {
+    "0x69D91B94f0AaF8e8A2586909fA77A5c2c89818d5": {
+      "sqrtPriceX96": "335157587925429204063987624",
+      "tick": "-109316",
+      "observationIndex": "5",
+      "observationCardinality": "60",
+      "observationCardinalityNext": "60",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "61170554700",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": "8"
+      }
+    },
+    "0xe05e653453F733786F2DABae0ffa1e96cFcc4b25": {
+      "sqrtPriceX96": "342347166002212588686231962",
+      "tick": "-108891",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "776567960",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": "8"
+      }
+    }
+  },
+  {
+    "0x7ED3F364668cd2b9449a8660974a26A092C64849": {
+      "sqrtPriceX96": "85862324912127783022571",
+      "tick": "-274716",
+      "observationIndex": "34",
+      "observationCardinality": "64",
+      "observationCardinalityNext": "64",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "39504839633263248",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": "18"
+      }
+    },
+    "0xef1aC586FdB80BD5a771C2a30ca7C9a9F48A4D13": {
+      "sqrtPriceX96": "85705766211836259621170",
+      "tick": "-274753",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "38683870903999",
+      "adresy": {
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6",
+        "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": "18"
+      }
+    }
+  },
+  {
+    "0x9f178e86E42DDF2379CB3D2AcF9Ed67A1eD2550a": {
+      "sqrtPriceX96": "58933887661505803252341147986",
+      "tick": "-5919",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3558473989091285483557",
+      "adresy": {
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0xA6B9a13B34db2A00284299c47DACF49FB62C1755": {
+      "sqrtPriceX96": "57837819219425764867911145661",
+      "tick": "-6295",
+      "observationIndex": "4",
+      "observationCardinality": "5",
+      "observationCardinalityNext": "5",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "18974096934504544",
+      "adresy": {
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x57D7d040438730d4029794799dEEd8601E23fF80": {
+      "sqrtPriceX96": "457024550104833646669999366374",
+      "tick": "35049",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "1975609590477632",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0x7cf70eD6213F08b70316bD80F7c2ddDc94E41aC5": {
+      "sqrtPriceX96": "211265726930690027583212937161",
+      "tick": "19616",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "31022931989107125614",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x57D7d040438730d4029794799dEEd8601E23fF80": {
+      "sqrtPriceX96": "457024550104833646669999366374",
+      "tick": "35049",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "1975609590477632",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0xD6993E525FAdB23971a20bBb057Af9841eAE076F": {
+      "sqrtPriceX96": "217517939216084191597487388690",
+      "tick": "20199",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17418503020901492343988",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x7cf70eD6213F08b70316bD80F7c2ddDc94E41aC5": {
+      "sqrtPriceX96": "211265726930690027583212937161",
+      "tick": "19616",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "31022931989107125614",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0xD6993E525FAdB23971a20bBb057Af9841eAE076F": {
+      "sqrtPriceX96": "217517939216084191597487388690",
+      "tick": "20199",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17418503020901492343988",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0xF4410C58D13820D5eBa1a563e592ED015c4e3c80": {
+      "sqrtPriceX96": "69228677550927244815188290751",
+      "tick": "-2699",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "5535179242362599763",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    },
+    "0xd921A81445Ff6A9114deb7Db011F5ef8353F0bBc": {
+      "sqrtPriceX96": "38998782772234658587010520026",
+      "tick": "-14177",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2655759681914518451",
+      "adresy": {
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    }
+  },
+  {
+    "0x4585FE77225b41b697C938B018E2Ac67Ac5a20c0": {
+      "sqrtPriceX96": "51166845324175354901541943319620995",
+      "tick": "267578",
+      "observationIndex": "179",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "62679767231332367",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    },
+    "0xCBCdF9626bC03E24f779434178A73a0B4bad62eD": {
+      "sqrtPriceX96": "51128071027095492932845699079576783",
+      "tick": "267563",
+      "observationIndex": "41",
+      "observationCardinality": "200",
+      "observationCardinalityNext": "200",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "32813223554594854",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    }
+  },
+  {
+    "0x4585FE77225b41b697C938B018E2Ac67Ac5a20c0": {
+      "sqrtPriceX96": "51166845324175354901541943319620995",
+      "tick": "267578",
+      "observationIndex": "179",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "62679767231332367",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    },
+    "0x6Ab3bba2F41e7eAA262fa5A1A9b3932fA161526F": {
+      "sqrtPriceX96": "51297753430253146630330627934916962",
+      "tick": "267629",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "69417612231815",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    }
+  },
+  {
+    "0xCBCdF9626bC03E24f779434178A73a0B4bad62eD": {
+      "sqrtPriceX96": "51128071027095492932845699079576783",
+      "tick": "267563",
+      "observationIndex": "41",
+      "observationCardinality": "200",
+      "observationCardinalityNext": "200",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "32813223554594854",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    },
+    "0x6Ab3bba2F41e7eAA262fa5A1A9b3932fA161526F": {
+      "sqrtPriceX96": "51297753430253146630330627934916962",
+      "tick": "267629",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "69417612231815",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8"
+      }
+    }
+  },
+  {
+    "0xD340B57AAcDD10F96FC1CF10e15921936F41E29c": {
+      "sqrtPriceX96": "87034641912222125565062023253",
+      "tick": "1879",
+      "observationIndex": "91",
+      "observationCardinality": "150",
+      "observationCardinalityNext": "150",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "110027894183372610718",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": "18"
+      }
+    },
+    "0xC12aF0C4AA39D3061c56cD3CB19f5e62dEeaeBdE": {
+      "sqrtPriceX96": "87111622708767180952619357640",
+      "tick": "1897",
+      "observationIndex": "38",
+      "observationCardinality": "60",
+      "observationCardinalityNext": "60",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "178921721243950502028",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": "18"
+      }
+    }
+  },
+  {
+    "0x66DD1ACc5da42502ddD469277aed509D1de22b69": {
+      "sqrtPriceX96": "156256549927918801797604",
+      "tick": "-262740",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "66285240906302",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": "8"
+      }
+    },
+    "0x15aA01580ae866f9FF4DBe45E06e307941d90C7b": {
+      "sqrtPriceX96": "122768055523331688756387",
+      "tick": "-267565",
+      "observationIndex": "13",
+      "observationCardinality": "75",
+      "observationCardinalityNext": "75",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2663009253886754",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": "8"
+      }
+    }
+  },
+  {
+    "0x7A415B19932c0105c82FDB6b720bb01B0CC2CAe3": {
+      "sqrtPriceX96": "76556629339419807748412299254",
+      "tick": "-687",
+      "observationIndex": "215",
+      "observationCardinality": "260",
+      "observationCardinalityNext": "260",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "68655393740813625631025",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": "18"
+      }
+    },
+    "0x6f5C74e2170cfD6F5B7829F4742Dc54CEC42eA07": {
+      "sqrtPriceX96": "76680441346918778449194019581",
+      "tick": "-654",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "291697634088865044",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee": "18"
+      }
+    }
+  },
+  {
+    "0x81fbBc40Cf075FD7De6AfCe1bc72EDA1BB0e13aa": {
+      "sqrtPriceX96": "6214424390818452758408213023451",
+      "tick": "87250",
+      "observationIndex": "78",
+      "observationCardinality": "200",
+      "observationCardinalityNext": "200",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "94040668869383111618",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff": "18"
+      }
+    },
+    "0xFd76bE67FFF3BAC84E3D5444167bbC018f5968b6": {
+      "sqrtPriceX96": "6222106524294061739438054160163",
+      "tick": "87275",
+      "observationIndex": "35",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3461266067426905283357",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff": "18"
+      }
+    }
+  },
+  {
+    "0xC5C7c21F4e60770CA5991a8832127A40f5236f73": {
+      "sqrtPriceX96": "91329380932974704789634040143574357",
+      "tick": "279166",
+      "observationIndex": "0",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1513906067",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x68749665ff8d2d112fa859aa293f07a622782f38": "6"
+      }
+    },
+    "0x3E04d683f7187BC0293e05006203AcCB29311767": {
+      "sqrtPriceX96": "89479902485582545338362866819285850",
+      "tick": "278757",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3438950779425",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x68749665ff8d2d112fa859aa293f07a622782f38": "6"
+      }
+    }
+  },
+  {
+    "0x11b815efB8f581194ae79006d24E0d814B7697F6": {
+      "sqrtPriceX96": "4043048817916681598650447",
+      "tick": "-197672",
+      "observationIndex": "147",
+      "observationCardinality": "400",
+      "observationCardinalityNext": "400",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "3396431257224287058",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    },
+    "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36": {
+      "sqrtPriceX96": "4047497847820854872522017",
+      "tick": "-197650",
+      "observationIndex": "99",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "5767490109178476646",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    }
+  },
+  {
+    "0x11b815efB8f581194ae79006d24E0d814B7697F6": {
+      "sqrtPriceX96": "4043048817916681598650447",
+      "tick": "-197672",
+      "observationIndex": "147",
+      "observationCardinality": "400",
+      "observationCardinalityNext": "400",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "3396431257224287058",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    },
+    "0xC5aF84701f98Fa483eCe78aF83F11b6C38ACA71D": {
+      "sqrtPriceX96": "4038789251483282791140162",
+      "tick": "-197693",
+      "observationIndex": "7",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "12093306143073852",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    }
+  },
+  {
+    "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36": {
+      "sqrtPriceX96": "4047497847820854872522017",
+      "tick": "-197650",
+      "observationIndex": "99",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "5767490109178476646",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    },
+    "0xC5aF84701f98Fa483eCe78aF83F11b6C38ACA71D": {
+      "sqrtPriceX96": "4038789251483282791140162",
+      "tick": "-197693",
+      "observationIndex": "7",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "12093306143073852",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    }
+  },
+  {
+    "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640": {
+      "sqrtPriceX96": "1552357465426402137639515986334030",
+      "tick": "197668",
+      "observationIndex": "390",
+      "observationCardinality": "723",
+      "observationCardinalityNext": "723",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "3095727907609044107",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8": {
+      "sqrtPriceX96": "1550654308945073112706174809726864",
+      "tick": "197646",
+      "observationIndex": "1187",
+      "observationCardinality": "1440",
+      "observationCardinalityNext": "1440",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2716072453151822497",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640": {
+      "sqrtPriceX96": "1552357465426402137639515986334030",
+      "tick": "197668",
+      "observationIndex": "390",
+      "observationCardinality": "723",
+      "observationCardinalityNext": "723",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "3095727907609044107",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x7BeA39867e4169DBe237d55C8242a8f2fcDcc387": {
+      "sqrtPriceX96": "1552186632720604567802267923499969",
+      "tick": "197666",
+      "observationIndex": "12",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "15858730654415160",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8": {
+      "sqrtPriceX96": "1550654308945073112706174809726864",
+      "tick": "197646",
+      "observationIndex": "1187",
+      "observationCardinality": "1440",
+      "observationCardinalityNext": "1440",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2716072453151822497",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x7BeA39867e4169DBe237d55C8242a8f2fcDcc387": {
+      "sqrtPriceX96": "1552186632720604567802267923499969",
+      "tick": "197666",
+      "observationIndex": "12",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "15858730654415160",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x5d4F3C6fA16908609BAC31Ff148Bd002AA6b8c83": {
+      "sqrtPriceX96": "5778911581159274284186861314",
+      "tick": "-52365",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "832817092549569154283",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    },
+    "0xa6Cc3C2531FdaA6Ae1A3CA84c2855806728693e8": {
+      "sqrtPriceX96": "5782264574118976647167555819",
+      "tick": "-52354",
+      "observationIndex": "32",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "523339350034637788556350",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    }
+  },
+  {
+    "0x5d4F3C6fA16908609BAC31Ff148Bd002AA6b8c83": {
+      "sqrtPriceX96": "5778911581159274284186861314",
+      "tick": "-52365",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "832817092549569154283",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    },
+    "0x3A0f221eA8B150f3D3d27DE8928851aB5264bB65": {
+      "sqrtPriceX96": "5758643653879392426255198795",
+      "tick": "-52436",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1041426331762253332450",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    }
+  },
+  {
+    "0xa6Cc3C2531FdaA6Ae1A3CA84c2855806728693e8": {
+      "sqrtPriceX96": "5782264574118976647167555819",
+      "tick": "-52354",
+      "observationIndex": "32",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "523339350034637788556350",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    },
+    "0x3A0f221eA8B150f3D3d27DE8928851aB5264bB65": {
+      "sqrtPriceX96": "5758643653879392426255198795",
+      "tick": "-52436",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1041426331762253332450",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x514910771af9ca656af840dff83e8264ecf986ca": "18"
+      }
+    }
+  },
+  {
+    "0x94E4b2E24523CF9B3e631A6943C346dF9687c723": {
+      "sqrtPriceX96": "5343755966937007658681592",
+      "tick": "-192093",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "87867395708715910949875",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    },
+    "0x2F62f2B4c5fcd7570a709DeC05D68EA19c82A9ec": {
+      "sqrtPriceX96": "5346517291043880887559972",
+      "tick": "-192083",
+      "observationIndex": "90",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "9643367929354123619534575",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    }
+  },
+  {
+    "0x94E4b2E24523CF9B3e631A6943C346dF9687c723": {
+      "sqrtPriceX96": "5343755966937007658681592",
+      "tick": "-192093",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "87867395708715910949875",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    },
+    "0x5764a6F2212D502bC5970f9f129fFcd61e5D7563": {
+      "sqrtPriceX96": "5365350751756857880776564",
+      "tick": "-192013",
+      "observationIndex": "4",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1887492752505852629681857",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    }
+  },
+  {
+    "0x2F62f2B4c5fcd7570a709DeC05D68EA19c82A9ec": {
+      "sqrtPriceX96": "5346517291043880887559972",
+      "tick": "-192083",
+      "observationIndex": "90",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "9643367929354123619534575",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    },
+    "0x5764a6F2212D502bC5970f9f129fFcd61e5D7563": {
+      "sqrtPriceX96": "5365350751756857880776564",
+      "tick": "-192013",
+      "observationIndex": "4",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1887492752505852629681857",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": "18"
+      }
+    }
+  },
+  {
+    "0x60594a405d53811d3BC4766596EFD80fd545A270": {
+      "sqrtPriceX96": "1552135969199212480720207653",
+      "tick": "-78658",
+      "observationIndex": "73",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "89210708948488546467149",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0xC2e9F25Be6257c210d7Adf0D4Cd6E3E881ba25f8": {
+      "sqrtPriceX96": "1550517300703871915712793698",
+      "tick": "-78679",
+      "observationIndex": "1444",
+      "observationCardinality": "1500",
+      "observationCardinalityNext": "1500",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "111235205346214506415802",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0x60594a405d53811d3BC4766596EFD80fd545A270": {
+      "sqrtPriceX96": "1552135969199212480720207653",
+      "tick": "-78658",
+      "observationIndex": "73",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "89210708948488546467149",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0xa80964C5bBd1A0E95777094420555fead1A26c1e": {
+      "sqrtPriceX96": "1549009688989767186949182153",
+      "tick": "-78699",
+      "observationIndex": "31",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "26633969937711316227",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0xC2e9F25Be6257c210d7Adf0D4Cd6E3E881ba25f8": {
+      "sqrtPriceX96": "1550517300703871915712793698",
+      "tick": "-78679",
+      "observationIndex": "1444",
+      "observationCardinality": "1500",
+      "observationCardinalityNext": "1500",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "111235205346214506415802",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    },
+    "0xa80964C5bBd1A0E95777094420555fead1A26c1e": {
+      "sqrtPriceX96": "1549009688989767186949182153",
+      "tick": "-78699",
+      "observationIndex": "31",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "26633969937711316227",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b175474e89094c44da98b954eedeac495271d0f": "18"
+      }
+    }
+  },
+  {
+    "0x11950d141EcB863F01007AdD7D1A342041227b58": {
+      "sqrtPriceX96": "4957343511953823454727067",
+      "tick": "-193595",
+      "observationIndex": "307",
+      "observationCardinality": "400",
+      "observationCardinalityNext": "400",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "35397314749405098985467014",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6982508145454ce325ddbe47a25d4ec3d2311933": "18"
+      }
+    },
+    "0xF239009A101B6B930A527DEaaB6961b6E7deC8a6": {
+      "sqrtPriceX96": "4943213402556045459619876",
+      "tick": "-193652",
+      "observationIndex": "15",
+      "observationCardinality": "132",
+      "observationCardinalityNext": "132",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "548633844255932500547923",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6982508145454ce325ddbe47a25d4ec3d2311933": "18"
+      }
+    }
+  },
+  {
+    "0xfaA318479b7755b2dBfDD34dC306cb28B420Ad12": {
+      "sqrtPriceX96": "4300149751749433737239841127",
+      "tick": "-58277",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "1425831799844137596",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0x1d42064Fc4Beb5F8aAF85F4617AE8b3b5B8Bd801": {
+      "sqrtPriceX96": "4300692303391401839855547827",
+      "tick": "-58275",
+      "observationIndex": "88",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "422006691961317277289414",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0xfaA318479b7755b2dBfDD34dC306cb28B420Ad12": {
+      "sqrtPriceX96": "4300149751749433737239841127",
+      "tick": "-58277",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "1425831799844137596",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0x360b9726186C0F62cc719450685ce70280774Dc8": {
+      "sqrtPriceX96": "4297516755630371826258810681",
+      "tick": "-58289",
+      "observationIndex": "36",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "931519433980759987224",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x1d42064Fc4Beb5F8aAF85F4617AE8b3b5B8Bd801": {
+      "sqrtPriceX96": "4300692303391401839855547827",
+      "tick": "-58275",
+      "observationIndex": "88",
+      "observationCardinality": "300",
+      "observationCardinalityNext": "300",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "422006691961317277289414",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    },
+    "0x360b9726186C0F62cc719450685ce70280774Dc8": {
+      "sqrtPriceX96": "4297516755630371826258810681",
+      "tick": "-58289",
+      "observationIndex": "36",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "931519433980759987224",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984": "18"
+      }
+    }
+  },
+  {
+    "0x7b1E5D984A43eE732de195628d20d05CFaBc3cC7": {
+      "sqrtPriceX96": "4520707796363791566410127484018",
+      "tick": "80885",
+      "observationIndex": "33",
+      "observationCardinality": "60",
+      "observationCardinalityNext": "60",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1405699024198090820387393",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3": "18"
+      }
+    },
+    "0xD0F292Fa6fe694892Bcf52B55ca0F3E277be17c0": {
+      "sqrtPriceX96": "4516624077782910285115388123191",
+      "tick": "80867",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "148854729869248748600",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3": "18"
+      }
+    }
+  },
+  {
+    "0x4674abc5796e1334B5075326b39B748bee9EaA34": {
+      "sqrtPriceX96": "26479800712276463036273710708",
+      "tick": "-21921",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "497909125417847589",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    },
+    "0x5aB53EE1d50eeF2C1DD3d5402789cd27bB52c1bB": {
+      "sqrtPriceX96": "26473644006386353559368726664",
+      "tick": "-21925",
+      "observationIndex": "105",
+      "observationCardinality": "1000",
+      "observationCardinalityNext": "1000",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "96155968132211216106693",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    }
+  },
+  {
+    "0x4674abc5796e1334B5075326b39B748bee9EaA34": {
+      "sqrtPriceX96": "26479800712276463036273710708",
+      "tick": "-21921",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "497909125417847589",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    },
+    "0x1353fE67fFf8f376762b7034DC9066f0bE15a723": {
+      "sqrtPriceX96": "26362012095181960163129184097",
+      "tick": "-22010",
+      "observationIndex": "28",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "791296417796798981",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    }
+  },
+  {
+    "0x5aB53EE1d50eeF2C1DD3d5402789cd27bB52c1bB": {
+      "sqrtPriceX96": "26473644006386353559368726664",
+      "tick": "-21925",
+      "observationIndex": "105",
+      "observationCardinality": "1000",
+      "observationCardinalityNext": "1000",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "96155968132211216106693",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    },
+    "0x1353fE67fFf8f376762b7034DC9066f0bE15a723": {
+      "sqrtPriceX96": "26362012095181960163129184097",
+      "tick": "-22010",
+      "observationIndex": "28",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "791296417796798981",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9": "18"
+      }
+    }
+  },
+  {
+    "0x4628a0A564DEBFc8798eb55DB5c91f2200486c24": {
+      "sqrtPriceX96": "2772538156505661214739877191",
+      "tick": "-67055",
+      "observationIndex": "35",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "4806070672360807026215",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24": "18"
+      }
+    },
+    "0xE936f0073549AD8b1fA53583600d629Ba9375161": {
+      "sqrtPriceX96": "2764913594642599285623922336",
+      "tick": "-67110",
+      "observationIndex": "110",
+      "observationCardinality": "144",
+      "observationCardinalityNext": "144",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "25587905237057165462215",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24": "18"
+      }
+    }
+  },
+  {
+    "0xAe4045ffeDdF61D570E6d1fE2D71DED1A2E85a88": {
+      "sqrtPriceX96": "794383155692903145967121378",
+      "tick": "-92056",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "386890203982994113669",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    },
+    "0xc3Db44ADC1fCdFd5671f555236eae49f4A8EEa18": {
+      "sqrtPriceX96": "793699583712277770973884968",
+      "tick": "-92073",
+      "observationIndex": "436",
+      "observationCardinality": "600",
+      "observationCardinalityNext": "600",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "89059105380724708888768",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    }
+  },
+  {
+    "0xAe4045ffeDdF61D570E6d1fE2D71DED1A2E85a88": {
+      "sqrtPriceX96": "794383155692903145967121378",
+      "tick": "-92056",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "386890203982994113669",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    },
+    "0x08B8cebfcA0f49A9303bab1cC4e2C25D280f2c00": {
+      "sqrtPriceX96": "795443912928819562082565574",
+      "tick": "-92029",
+      "observationIndex": "36",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "45862699842636477027",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    }
+  },
+  {
+    "0xc3Db44ADC1fCdFd5671f555236eae49f4A8EEa18": {
+      "sqrtPriceX96": "793699583712277770973884968",
+      "tick": "-92073",
+      "observationIndex": "436",
+      "observationCardinality": "600",
+      "observationCardinalityNext": "600",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "89059105380724708888768",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    },
+    "0x08B8cebfcA0f49A9303bab1cC4e2C25D280f2c00": {
+      "sqrtPriceX96": "795443912928819562082565574",
+      "tick": "-92029",
+      "observationIndex": "36",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "45862699842636477027",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x57e114B691Db790C35207b2e685D4A43181e6061": "18"
+      }
+    }
+  },
+  {
+    "0x744159757caC173A7A3eCf5e97ADB10d1a725377": {
+      "sqrtPriceX96": "1278975492762679570348654944",
+      "tick": "-82530",
+      "observationIndex": "32",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "54487421857381177770386",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85": "18"
+      }
+    },
+    "0x948b54A93f5aD1df6B8bFF6Dc249D99CA2EcA052": {
+      "sqrtPriceX96": "1279729590049590612671687221",
+      "tick": "-82518",
+      "observationIndex": "38",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "135783179081406334058740",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85": "18"
+      }
+    }
+  },
+  {
+    "0x59354356Ec5d56306791873f567d61EBf11dfbD5": {
+      "sqrtPriceX96": "903465158526218374935268910",
+      "tick": "-89482",
+      "observationIndex": "25",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "6769631840168181356737",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": "18"
+      }
+    },
+    "0x755E5A186F0469583bd2e80d1216E02aB88Ec6ca": {
+      "sqrtPriceX96": "906176690288324459146357705",
+      "tick": "-89422",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2000032573980745940",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1": "18"
+      }
+    }
+  },
+  {
+    "0xe8c6c9227491C0a8156A0106A0204d881BB7E531": {
+      "sqrtPriceX96": "67995449301777741605961018791",
+      "tick": "-3058",
+      "observationIndex": "129",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "7305245425014075724409",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": "18"
+      }
+    },
+    "0x3aFdC5e6DfC0B0a507A8e023c9Dce2CAfC310316": {
+      "sqrtPriceX96": "68135223029290842310211546869",
+      "tick": "-3017",
+      "observationIndex": "5",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2307970314272881129249",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2": "18"
+      }
+    }
+  },
+  {
+    "0x24EE2c6B9597F035088CDa8575E9D5e15a84B9DF": {
+      "sqrtPriceX96": "16175390012332908803106143950",
+      "tick": "-31779",
+      "observationIndex": "16",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3976652337133237412556",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x4a220e6096b25eadb88358cb44068a3248254675": "18"
+      }
+    },
+    "0xe310D7acDB331AF81904E747D6ec005de0Ac1162": {
+      "sqrtPriceX96": "16156326602510165055715735812",
+      "tick": "-31802",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3094193627698415120",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x4a220e6096b25eadb88358cb44068a3248254675": "18"
+      }
+    }
+  },
+  {
+    "0xf313d711D71eB9a607B4A61A827a9e32a7846621": {
+      "sqrtPriceX96": "1563907851223041943908854072847799",
+      "tick": "197817",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "490032570504",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    },
+    "0x643ea0885875A77bF8dC3e0f3EaD866A125276b1": {
+      "sqrtPriceX96": "1562552600029340100777638999010093",
+      "tick": "197799",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "992092124473",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6c3ea9036406852006290770bedfcaba0e23a0e8": "6"
+      }
+    }
+  },
+  {
+    "0x919Fa96e88d67499339577Fa202345436bcDaf79": {
+      "sqrtPriceX96": "5603179321354292782550059586249",
+      "tick": "85179",
+      "observationIndex": "30",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "48975973740406257893100",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xD533a949740bb3306d119CC777fa900bA034cd52": "18"
+      }
+    },
+    "0x4c83A7f819A5c37D64B4c5A2f8238Ea082fA1f4e": {
+      "sqrtPriceX96": "5620550859766220584293787353953",
+      "tick": "85241",
+      "observationIndex": "101",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "336250648814155140998",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xD533a949740bb3306d119CC777fa900bA034cd52": "18"
+      }
+    }
+  },
+  {
+    "0x0e2c4bE9F3408E5b1FF631576D946Eb8C224b5ED": {
+      "sqrtPriceX96": "13878186086835498193147720411773",
+      "tick": "103319",
+      "observationIndex": "116",
+      "observationCardinality": "144",
+      "observationCardinalityNext": "144",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "5740258015225180751303",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xc944e90c64b2c07662a292be6244bdf05cda44a7": "18"
+      }
+    },
+    "0x46add4B3F80672989b9A1eAF62caD5206F5E2164": {
+      "sqrtPriceX96": "13245114833376805654917628171435",
+      "tick": "102386",
+      "observationIndex": "71",
+      "observationCardinality": "76",
+      "observationCardinalityNext": "76",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "765009436762979668",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xc944e90c64b2c07662a292be6244bdf05cda44a7": "18"
+      }
+    }
+  },
+  {
+    "0x92560C178cE069CC014138eD3C2F5221Ba71f58a": {
+      "sqrtPriceX96": "928232710469381340404179954160",
+      "tick": "49221",
+      "observationIndex": "36",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "17067980823220204740130",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72": "18"
+      }
+    },
+    "0xb9C4a5522a2f8bA9E2fF7063Df8C02ed443337A3": {
+      "sqrtPriceX96": "929085020407410517122872368471",
+      "tick": "49239",
+      "observationIndex": "49",
+      "observationCardinality": "150",
+      "observationCardinalityNext": "150",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "647762757939712572841",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72": "18"
+      }
+    }
+  },
+  {
+    "0x7C706586679Af2BA6D1A9fC2DA9C6aF59883fdD3": {
+      "sqrtPriceX96": "34744403234421127396841159",
+      "tick": "-154650",
+      "observationIndex": "1679",
+      "observationCardinality": "1800",
+      "observationCardinalityNext": "1800",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "845392566282008244",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": "8"
+      }
+    },
+    "0x00Ed26e794b949E18B142F9108429b74CE08aC99": {
+      "sqrtPriceX96": "34705862024113722996401515",
+      "tick": "-154672",
+      "observationIndex": "36",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3227266313975540",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c": "8"
+      }
+    }
+  },
+  {
+    "0x3CD80800A1403A96C4c8AA28CC291CB8cd6442b3": {
+      "sqrtPriceX96": "4972461458575220279557958675566",
+      "tick": "82790",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3163253399027272290736",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55": "18"
+      }
+    },
+    "0x5B781915b6b610A1aba8135Ad5df084FFe528DA4": {
+      "sqrtPriceX96": "4960546875666882925466746386176",
+      "tick": "82742",
+      "observationIndex": "13",
+      "observationCardinality": "76",
+      "observationCardinalityNext": "76",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "291536810650767627812",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55": "18"
+      }
+    }
+  },
+  {
+    "0x1314AE4CF2A9440303fEf6Ae0FDc9ea5aD7a2A37": {
+      "sqrtPriceX96": "293432012303979988704759625",
+      "tick": "-111975",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "221880310099241181462",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3506424f91fd33084466f402d5d97f05f8e3b4af": "18"
+      }
+    },
+    "0x325365ED8275f6a74cac98917b7f6FaCe8da533b": {
+      "sqrtPriceX96": "291406436537208286053374404",
+      "tick": "-112113",
+      "observationIndex": "10",
+      "observationCardinality": "76",
+      "observationCardinalityNext": "76",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "220978956380672791479",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3506424f91fd33084466f402d5d97f05f8e3b4af": "18"
+      }
+    }
+  },
+  {
+    "0x8107fcA5494375Fc743A9Fc4d4844353a1AF3D94": {
+      "sqrtPriceX96": "96208125057833323850560172",
+      "tick": "-134279",
+      "observationIndex": "5",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "4646862554709707662528",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa35923162c49cf95e6bf26623385eb431ad920d3": "18"
+      }
+    },
+    "0x7baecE5d47f1BC5E1953FBE0E9931D54DAB6D810": {
+      "sqrtPriceX96": "96356035794390381562303288",
+      "tick": "-134248",
+      "observationIndex": "13",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1025655341738862487472074",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xa35923162c49cf95e6bf26623385eb431ad920d3": "18"
+      }
+    }
+  },
+  {
+    "0xc8219b876753A85025156b22176c2eDEA17aAC53": {
+      "sqrtPriceX96": "1827871909506785501183783049",
+      "tick": "-75388",
+      "observationIndex": "13",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "18385466196550519373748",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x58D97B57BB95320F9a05dC918Aef65434969c2B2": "18"
+      }
+    },
+    "0x25b96761e765b9AC20db18fA57Fa91e3b617Ec6F": {
+      "sqrtPriceX96": "1827091081184137046216791365",
+      "tick": "-75396",
+      "observationIndex": "12",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1361278590633216455250",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x58D97B57BB95320F9a05dC918Aef65434969c2B2": "18"
+      }
+    }
+  },
+  {
+    "0xaEAC4A9ba7Df813b5e6b24c0A76B7390a80a28b1": {
+      "sqrtPriceX96": "2640613590949239226473491877",
+      "tick": "-68030",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "76044300813191268",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    },
+    "0xd35EFAE4097d005720608Eaf37E42a5936C94B44": {
+      "sqrtPriceX96": "698726747401871171755148464",
+      "tick": "-94622",
+      "observationIndex": "93",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "45006623268713724837",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    }
+  },
+  {
+    "0xaEAC4A9ba7Df813b5e6b24c0A76B7390a80a28b1": {
+      "sqrtPriceX96": "2640613590949239226473491877",
+      "tick": "-68030",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "76044300813191268",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    },
+    "0xE931b03260B2854e77e8dA8378A1BC017b13cb97": {
+      "sqrtPriceX96": "700224085782274564599840768",
+      "tick": "-94579",
+      "observationIndex": "4",
+      "observationCardinality": "10",
+      "observationCardinalityNext": "10",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "219844354553818264751257",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    }
+  },
+  {
+    "0xd35EFAE4097d005720608Eaf37E42a5936C94B44": {
+      "sqrtPriceX96": "698726747401871171755148464",
+      "tick": "-94622",
+      "observationIndex": "93",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "45006623268713724837",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    },
+    "0xE931b03260B2854e77e8dA8378A1BC017b13cb97": {
+      "sqrtPriceX96": "700224085782274564599840768",
+      "tick": "-94579",
+      "observationIndex": "4",
+      "observationCardinality": "10",
+      "observationCardinalityNext": "10",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "219844354553818264751257",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x111111111117dc0aa78b770fa6a738034120c302": "18"
+      }
+    }
+  },
+  {
+    "0x000ba527862e5b82cff0F7c66b646AF023274aA1": {
+      "sqrtPriceX96": "1007862643661908579922934684",
+      "tick": "-87295",
+      "observationIndex": "18",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "31916513764463594054361",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x5afe3855358e112b5647b952709e6165e1c1eeee": "18"
+      }
+    },
+    "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB": {
+      "sqrtPriceX96": "1018940304781949362225706820",
+      "tick": "-87076",
+      "observationIndex": "17",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "53225626334114186220",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x5afe3855358e112b5647b952709e6165e1c1eeee": "18"
+      }
+    }
+  },
+  {
+    "0x83e71E2637849d89C67a95F521774A70aB4E3E30": {
+      "sqrtPriceX96": "1621353031230831905375475",
+      "tick": "-215948",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "44657715901526369",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    },
+    "0xEae7bA4AdF7987fdA8Bb1A26Bcd0E8abE0f922Af": {
+      "sqrtPriceX96": "1541584541903822100752234",
+      "tick": "-216957",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "14351701363663427880",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    }
+  },
+  {
+    "0x83e71E2637849d89C67a95F521774A70aB4E3E30": {
+      "sqrtPriceX96": "1621353031230831905375475",
+      "tick": "-215948",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "44657715901526369",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    },
+    "0x7832310Cd0de39c4cE0A635F34d9a4B5b47fd434": {
+      "sqrtPriceX96": "1597317900850124924214495",
+      "tick": "-216247",
+      "observationIndex": "291",
+      "observationCardinality": "1000",
+      "observationCardinalityNext": "1000",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "11243783332398955560485872",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    }
+  },
+  {
+    "0xEae7bA4AdF7987fdA8Bb1A26Bcd0E8abE0f922Af": {
+      "sqrtPriceX96": "1541584541903822100752234",
+      "tick": "-216957",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "14351701363663427880",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    },
+    "0x7832310Cd0de39c4cE0A635F34d9a4B5b47fd434": {
+      "sqrtPriceX96": "1597317900850124924214495",
+      "tick": "-216247",
+      "observationIndex": "291",
+      "observationCardinality": "1000",
+      "observationCardinalityNext": "1000",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "11243783332398955560485872",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a": "18"
+      }
+    }
+  },
+  {
+    "0x824A30F2984F9013F2C8d0A29c0a3cC5fd5C0673": {
+      "sqrtPriceX96": "412420583627407060339370034",
+      "tick": "-105167",
+      "observationIndex": "98",
+      "observationCardinality": "150",
+      "observationCardinalityNext": "150",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3224516065115736168",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x5283d291dbcf85356a21ba090e6db59121208b44": "18"
+      }
+    },
+    "0x6F41040B9e098C2AC4B88E27b50D4E9Ab486781b": {
+      "sqrtPriceX96": "410794658586248630925470920",
+      "tick": "-105246",
+      "observationIndex": "139",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "695177569048653700531",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x5283d291dbcf85356a21ba090e6db59121208b44": "18"
+      }
+    }
+  },
+  {
+    "0xEDe8dd046586d22625Ae7fF2708F879eF7bdb8CF": {
+      "sqrtPriceX96": "1178956134056398233388677285",
+      "tick": "-84159",
+      "observationIndex": "109",
+      "observationCardinality": "144",
+      "observationCardinalityNext": "144",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "97997918722117717041",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f": "18"
+      }
+    },
+    "0xf5ce0293C24FD0990E0a5758E53f66a36cA0118f": {
+      "sqrtPriceX96": "1229589236711367980804246296",
+      "tick": "-83318",
+      "observationIndex": "0",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "308514082185168170",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f": "18"
+      }
+    }
+  },
+  {
+    "0xC2C390c6CD3C4e6c2b70727d35a45e8a072F18cA": {
+      "sqrtPriceX96": "3770918068658253805409345939610",
+      "tick": "77258",
+      "observationIndex": "3",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "39780592188395492038287",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83": "18"
+      }
+    },
+    "0x7A0FBcC466E6830d3a813826ddeeC608978bde2f": {
+      "sqrtPriceX96": "3771841867694114867619377029946",
+      "tick": "77263",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "620599410161591028576",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83": "18"
+      }
+    }
+  },
+  {
+    "0x63519188E56E2A71CE95D7364223c0d23614C655": {
+      "sqrtPriceX96": "1615829146199122141989273138299558",
+      "tick": "198470",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "26602931076",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c": "6"
+      }
+    },
+    "0x6637D3D16bf761289e0E2dc7668135c49E9dD801": {
+      "sqrtPriceX96": "1682660564866064536819673711947657",
+      "tick": "199281",
+      "observationIndex": "40",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "587580321044651",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c": "6"
+      }
+    }
+  },
+  {
+    "0x3150B450F8325ac4AFbfA52f33EcF00232F1294E": {
+      "sqrtPriceX96": "1113208660199443178100657359",
+      "tick": "-85306",
+      "observationIndex": "3",
+      "observationCardinality": "5",
+      "observationCardinalityNext": "5",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "23086337172131350841276",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66": "18"
+      }
+    },
+    "0x27941A235804f33D81aDaBb2d56589c5f6Ea6556": {
+      "sqrtPriceX96": "1109216740004572514366398226",
+      "tick": "-85378",
+      "observationIndex": "30",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "316373740644015730303072",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66": "18"
+      }
+    }
+  },
+  {
+    "0x1D48Fc96200153033476faAEFb837e3381e081ce": {
+      "sqrtPriceX96": "526471099155035938993614146",
+      "tick": "-100283",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "6529329633236643455",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9Ce84F6A69986a83d92C324df10bC8E64771030f": "18"
+      }
+    },
+    "0xD3e9895230E8FB1460852F6cDA3C4B926FbC29D8": {
+      "sqrtPriceX96": "528022023979026944816388829",
+      "tick": "-100224",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "119722099051666188340511",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9Ce84F6A69986a83d92C324df10bC8E64771030f": "18"
+      }
+    }
+  },
+  {
+    "0x73A6a761FE483bA19DeBb8f56aC5bbF14c0cdad1": {
+      "sqrtPriceX96": "1216134217934676910479800847",
+      "tick": "-83538",
+      "observationIndex": "74",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "100210286072467235501",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": "18"
+      }
+    },
+    "0x19E286157200418d6A1f7D1df834b82E65C920AA": {
+      "sqrtPriceX96": "1380622258391194098650170482",
+      "tick": "-81000",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1976236419938568553543",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": "18"
+      }
+    }
+  },
+  {
+    "0x64C046339682D30b8ceB4E11ae47078b78bAc3d7": {
+      "sqrtPriceX96": "1497100534494369045758745100",
+      "tick": "-79380",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "279716653944624481749",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194": "18"
+      }
+    },
+    "0x32121E0d11EcC79035045bC7466eDE30816C5674": {
+      "sqrtPriceX96": "359828468059631952950589858",
+      "tick": "-107895",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "28518999001897881961",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194": "18"
+      }
+    }
+  },
+  {
+    "0xe1d92f1De49CAEC73514f696FEa2a7d5441498E5": {
+      "sqrtPriceX96": "419560689494314936306917697",
+      "tick": "-104823",
+      "observationIndex": "670",
+      "observationCardinality": "720",
+      "observationCardinalityNext": "720",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "206213468153842216808",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": "18"
+      }
+    },
+    "0x3589697F57218bd57290aC18aE1c11b269AD964a": {
+      "sqrtPriceX96": "422917155381571159270565327",
+      "tick": "-104664",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "18320296692767816254",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd": "18"
+      }
+    }
+  },
+  {
+    "0x06f00544C0bc62E6db10F46D370dFCcDC23d8189": {
+      "sqrtPriceX96": "4174147061548058919661543479424",
+      "tick": "79290",
+      "observationIndex": "46",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "129249020997010973972973",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB": "18"
+      }
+    },
+    "0xDeFDAC77A9A767a2c4eEd826E1AEaD2dAcE53e1C": {
+      "sqrtPriceX96": "4176722477483434786588278955162",
+      "tick": "79302",
+      "observationIndex": "26",
+      "observationCardinality": "60",
+      "observationCardinalityNext": "60",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "126106830805523401135",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB": "18"
+      }
+    }
+  },
+  {
+    "0x16588709ca8f7B84829B43cC1c5cb7e84a321b16": {
+      "sqrtPriceX96": "2375764877302163621473691845",
+      "tick": "-70144",
+      "observationIndex": "43",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "8349545683448106434224",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb23d80f5fefcddaa212212f028021b41ded428cf": "18"
+      }
+    },
+    "0xCD423F3ab39a11ff1D9208B7D37dF56E902C932B": {
+      "sqrtPriceX96": "2374951962070053333720312697",
+      "tick": "-70151",
+      "observationIndex": "47",
+      "observationCardinality": "60",
+      "observationCardinalityNext": "60",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "7864073338179820953936",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb23d80f5fefcddaa212212f028021b41ded428cf": "18"
+      }
+    }
+  },
+  {
+    "0x15153Da0E9e13cfC167b3D417d3721bF545479bB": {
+      "sqrtPriceX96": "1007057154127789541013119178818",
+      "tick": "50851",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "21310772222662089526",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee": "9"
+      }
+    },
+    "0x79A6683D82F25535Ff3fD2753E03e0961060e882": {
+      "sqrtPriceX96": "1017051690736598069055878361187",
+      "tick": "51049",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "4787822616426567",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee": "9"
+      }
+    }
+  },
+  {
+    "0x08A5a1E2671839dADc25e2E20f9206FD33C88092": {
+      "sqrtPriceX96": "17955176498225784942548327579079",
+      "tick": "108471",
+      "observationIndex": "2",
+      "observationCardinality": "5",
+      "observationCardinalityNext": "5",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "22280211798198319724900",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcb1592591996765ec0efc1f92599a19767ee5ffa": "18"
+      }
+    },
+    "0x54fc75D22f6a290863E9a8EA18fcE11aebB4dB75": {
+      "sqrtPriceX96": "17876496571473208967442108726150",
+      "tick": "108383",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "157440446308271458392",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xcb1592591996765ec0efc1f92599a19767ee5ffa": "18"
+      }
+    }
+  },
+  {
+    "0x198063C23aC1317Ff3cc57D9f54FAAC6B675D89f": {
+      "sqrtPriceX96": "232381096767495598051795713",
+      "tick": "-116640",
+      "observationIndex": "40",
+      "observationCardinality": "41",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "604780272963808528608",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74": "18"
+      }
+    },
+    "0x70cF99553471FE6C0d513ebFac8aCC55BA02ab7B": {
+      "sqrtPriceX96": "61427652026905823427865030",
+      "tick": "-143252",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "300396786215865045121",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74": "18"
+      }
+    }
+  },
+  {
+    "0x01bd1d1F933692dFC64D1d64cc3ed1C24887EdAa": {
+      "sqrtPriceX96": "3159750005154257246805090234",
+      "tick": "-64440",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3131463827250290428",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4": "18"
+      }
+    },
+    "0xF1345142AcecE27172Be2Fd220DC5E61138b09EE": {
+      "sqrtPriceX96": "1895747611799677662746878983",
+      "tick": "-74659",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "468880170084418712",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4": "18"
+      }
+    }
+  },
+  {
+    "0x4bfb38da0Ef448721bB025DbEEC1fF43cf739B5B": {
+      "sqrtPriceX96": "678725894665117385340910958",
+      "tick": "-95203",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "232296021710053152",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    },
+    "0xb011e4EB4111ef00b620A5ed195836dCd69dB1FF": {
+      "sqrtPriceX96": "680520645527598679555502655",
+      "tick": "-95150",
+      "observationIndex": "2",
+      "observationCardinality": "32",
+      "observationCardinalityNext": "32",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3007477262171117331553",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    }
+  },
+  {
+    "0x4bfb38da0Ef448721bB025DbEEC1fF43cf739B5B": {
+      "sqrtPriceX96": "678725894665117385340910958",
+      "tick": "-95203",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "232296021710053152",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    },
+    "0x3BE033b60BC4aA789368954595332FAB143987eC": {
+      "sqrtPriceX96": "689001796199494885384406591",
+      "tick": "-94902",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3848905604366238367",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    }
+  },
+  {
+    "0xb011e4EB4111ef00b620A5ed195836dCd69dB1FF": {
+      "sqrtPriceX96": "680520645527598679555502655",
+      "tick": "-95150",
+      "observationIndex": "2",
+      "observationCardinality": "32",
+      "observationCardinalityNext": "32",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3007477262171117331553",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    },
+    "0x3BE033b60BC4aA789368954595332FAB143987eC": {
+      "sqrtPriceX96": "689001796199494885384406591",
+      "tick": "-94902",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "3848905604366238367",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x9813037ee2218799597d83D4a5B6F3b6778218d9": "18"
+      }
+    }
+  },
+  {
+    "0xCBfb8d042342EC7816432d12120fc4e740a2d419": {
+      "sqrtPriceX96": "977927761610327611318551079",
+      "tick": "-87898",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "17765224981446977368948",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800": "18"
+      }
+    },
+    "0xe92F2Bec2B40908f18C0777c79fD27f8A6894140": {
+      "sqrtPriceX96": "1451404647199900261239579364",
+      "tick": "-80000",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "6361931925165806788684",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800": "18"
+      }
+    }
+  },
+  {
+    "0xFA45c879Fd120d6Cc493113Ae212A853531F3d91": {
+      "sqrtPriceX96": "453751522090923786634168119",
+      "tick": "-103256",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "90205554351170460",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637": "9"
+      }
+    },
+    "0x9073D1E814483e3c91E9B4D7b2A81C30B93229B1": {
+      "sqrtPriceX96": "455691726456973060423189488",
+      "tick": "-103171",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "9453870843267547",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637": "9"
+      }
+    }
+  },
+  {
+    "0x000ea4a83ACefdd62b1b43e9cCc281f442651520": {
+      "sqrtPriceX96": "1628223042483446977856323657",
+      "tick": "-77701",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "243141191234319781",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x4Fabb145d64652a948d72533023f6E7A623C7C53": "18"
+      }
+    },
+    "0x4Ff7E1E713E30b0D1Fb9CD00477cEF399ff9D493": {
+      "sqrtPriceX96": "1557652925409390819688449724",
+      "tick": "-78587",
+      "observationIndex": "54",
+      "observationCardinality": "144",
+      "observationCardinalityNext": "144",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "585982155369999871092",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x4Fabb145d64652a948d72533023f6E7A623C7C53": "18"
+      }
+    }
+  },
+  {
+    "0x747E839A12E13f3fae477f5EfEf2c16a75e46F87": {
+      "sqrtPriceX96": "21186899965799749270690670",
+      "tick": "-164543",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1051619301730463479194",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa": "18"
+      }
+    },
+    "0x120FFad35bB97a5BaF9aB68f9Dd7667864530245": {
+      "sqrtPriceX96": "21240787249721408781013794",
+      "tick": "-164492",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "522803042858379410155504",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa": "18"
+      }
+    }
+  },
+  {
+    "0x18Bbe20F81bdcB340325E28a6eE6BB426B7cCbc1": {
+      "sqrtPriceX96": "1088890357867421462984537211",
+      "tick": "-85748",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "9346573944677703333289",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x8248270620aa532e4d64316017be5e873e37cc09": "18"
+      }
+    },
+    "0x793F176f57878a69ee12C13725670Bf0D92B8Ae5": {
+      "sqrtPriceX96": "1720342382398580257955812509",
+      "tick": "-76600",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "806438674387728004266",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x8248270620aa532e4d64316017be5e873e37cc09": "18"
+      }
+    }
+  },
+  {
+    "0xD8de6af55F618a7Bc69835D55DDC6582220c36c0": {
+      "sqrtPriceX96": "1121381427809178462793497726",
+      "tick": "-85160",
+      "observationIndex": "34",
+      "observationCardinality": "41",
+      "observationCardinalityNext": "41",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "487086517720231026294",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x92d6c1e31e14520e676a687f0a93788b716beff5": "18"
+      }
+    },
+    "0xe0CfA17aa9B8f930Fd936633c0252d5cB745C2C3": {
+      "sqrtPriceX96": "1121089931533153827608611891",
+      "tick": "-85165",
+      "observationIndex": "150",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "4825941714683432823906",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x92d6c1e31e14520e676a687f0a93788b716beff5": "18"
+      }
+    }
+  },
+  {
+    "0x6ce6D6D40a4C4088309293B0582372A2e6bB632E": {
+      "sqrtPriceX96": "931595378758969589359714309",
+      "tick": "-88869",
+      "observationIndex": "51",
+      "observationCardinality": "144",
+      "observationCardinalityNext": "144",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "572048040236839806",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6": "18"
+      }
+    },
+    "0x035f1D7d2520d24c6e8b06758316290DF06b8c82": {
+      "sqrtPriceX96": "826589929069195926401108495",
+      "tick": "-91261",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "56436651565124",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6": "18"
+      }
+    }
+  },
+  {
+    "0x968510ce860030060283aEDc4d951bb72f939334": {
+      "sqrtPriceX96": "314697138189159158969119993765324",
+      "tick": "165748",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "5747896258673090",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1": "6"
+      }
+    },
+    "0x1c774B48Cd31dcF9FcB4bBb8FF52A8c4B4094C3d": {
+      "sqrtPriceX96": "702153302486745555422007180957972",
+      "tick": "181800",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "40309963914933",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1": "6"
+      }
+    }
+  },
+  {
+    "0x59C68e0ECa9F0844d9D4CeE0BEDf23c8dEE462c5": {
+      "sqrtPriceX96": "332074996772825077243152972",
+      "tick": "-109500",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "889564537346352622",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3b50805453023a91a8bf641e279401a0b23fa6f9": "18"
+      }
+    },
+    "0x76366D95c2016446247296Ea50c8D06D0585ae00": {
+      "sqrtPriceX96": "141319012190108726649173811",
+      "tick": "-126588",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17491308504365120586",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3b50805453023a91a8bf641e279401a0b23fa6f9": "18"
+      }
+    }
+  },
+  {
+    "0xD896d4848a74650477d3f5212B874f209Fb8B6D7": {
+      "sqrtPriceX96": "13936612542046710526048808",
+      "tick": "-172921",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "185737271366463996805",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870": "18"
+      }
+    },
+    "0xD572D276b699947A043C85f8d66Ce311CC85E357": {
+      "sqrtPriceX96": "894168985667094360420906908",
+      "tick": "-89689",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "22061830596251810292",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870": "18"
+      }
+    }
+  },
+  {
+    "0xc0A58eda18F056e001B2E7218c42F13F6cb71Fac": {
+      "sqrtPriceX96": "676089903665860716755109459",
+      "tick": "-95280",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2605345113732621525",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf": "18"
+      }
+    },
+    "0x1AaeDB2dC55121203326831B2D05Ff9763106839": {
+      "sqrtPriceX96": "504110537280035760227882677",
+      "tick": "-101151",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "10765727626412670875",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3f80b1c54ae920be41a77f8b902259d48cf24ccf": "18"
+      }
+    }
+  },
+  {
+    "0xc548016a337f0dF094a899EC9cD474485ba6Ee58": {
+      "sqrtPriceX96": "420712759249105929354560413",
+      "tick": "-104768",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "25307385608878371272727",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xABD4C63d2616A5201454168269031355f4764337": "18"
+      }
+    },
+    "0xeECB57110c77A1Cb7766bf77958094e63e0242be": {
+      "sqrtPriceX96": "432835406487583499198854695",
+      "tick": "-104200",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "411527606951134834",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xABD4C63d2616A5201454168269031355f4764337": "18"
+      }
+    }
+  },
+  {
+    "0x35B88354C51613Fe8857e02668c68e8c52161BA2": {
+      "sqrtPriceX96": "145148634310014418384528249",
+      "tick": "-126053",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "3408530737954318074176",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676": "18"
+      }
+    },
+    "0x4765AA201B3C457742e93a329A9719E1D129ACD4": {
+      "sqrtPriceX96": "144961091194665620648454953",
+      "tick": "-126079",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "23252198455146558548903",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676": "18"
+      }
+    }
+  },
+  {
+    "0x262faf36239BaA6488C116f273C9b98A1F117Ad9": {
+      "sqrtPriceX96": "389092549756133332182730263",
+      "tick": "-106331",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1088341804859784967823",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3010ccb5419F1EF26D40a7cd3F0d707a0fa127Dc": "18"
+      }
+    },
+    "0xA16B6f91a89B0537aa4E82023e27c3d88f765B8d": {
+      "sqrtPriceX96": "386485821680033752635256374",
+      "tick": "-106466",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "6170755252713589733418",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3010ccb5419F1EF26D40a7cd3F0d707a0fa127Dc": "18"
+      }
+    }
+  },
+  {
+    "0xE935fAC6b950539F37450f80C76325a6B2232725": {
+      "sqrtPriceX96": "186043985143364681193337",
+      "tick": "-259251",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "13363056461966339711873",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9": "18"
+      }
+    },
+    "0x92dDD530746516F0d18CD81b865674DB39B4521D": {
+      "sqrtPriceX96": "173609156416047252533177",
+      "tick": "-260634",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2006643075015255932903",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9": "18"
+      }
+    }
+  },
+  {
+    "0x4B75395c221f3699563C56De7A7F76199EAe36f6": {
+      "sqrtPriceX96": "6666201889555747169878290",
+      "tick": "-187671",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "11470132359164489775479",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18": "18"
+      }
+    },
+    "0x1474c1fA8078EDeeEb9753d76526c142158f3236": {
+      "sqrtPriceX96": "6641171539498492234494691",
+      "tick": "-187746",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "7604602951714194205322",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xaa95f26e30001251fb905d264Aa7b00eE9dF6C18": "18"
+      }
+    }
+  },
+  {
+    "0xD493B1934826EeABB260F55D7f51FDEfa4b0EEd5": {
+      "sqrtPriceX96": "162138856185841865853461857",
+      "tick": "-123839",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2058081621569927576",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5": "18"
+      }
+    },
+    "0x60B0dAd2d7D65b7D6eFc0B746687020cCeF0a233": {
+      "sqrtPriceX96": "140742720775278583632123142",
+      "tick": "-126670",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "961572783865752087819",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1121AcC14c63f3C872BFcA497d10926A6098AAc5": "18"
+      }
+    }
+  },
+  {
+    "0x18D02326BB38d351cd874A0959aeFA8C716893d5": {
+      "sqrtPriceX96": "39227723807598996371133741",
+      "tick": "-152222",
+      "observationIndex": "49",
+      "observationCardinality": "50",
+      "observationCardinalityNext": "50",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "48525389355165911",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf0d33beda4d734c72684b5f9abbebf715d0a7935": "6"
+      }
+    },
+    "0xcbEa4F3f88a80160d4C242616fC1354da97bA037": {
+      "sqrtPriceX96": "24300369952873281842258358",
+      "tick": "-161801",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "71896705128731",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf0d33beda4d734c72684b5f9abbebf715d0a7935": "6"
+      }
+    }
+  },
+  {
+    "0x103A061a439cc7fE943E705B54AA25004FeAe741": {
+      "sqrtPriceX96": "1464510945049016575131536069",
+      "tick": "-79821",
+      "observationIndex": "1",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "498425267289072300",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3A856d4effa670C54585a5D523e96513e148e95d": "18"
+      }
+    },
+    "0x3E87d4C24fb56c52A0dBD089a6219b7086d577d8": {
+      "sqrtPriceX96": "1978854366836440320320299846",
+      "tick": "-73800",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "6805111316115431887",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x3A856d4effa670C54585a5D523e96513e148e95d": "18"
+      }
+    }
+  },
+  {
+    "0x38CEa841E55319041fAE39DF7fF2d4b97a81a08D": {
+      "sqrtPriceX96": "182580180134340090870524632248190",
+      "tick": "154859",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "363805659979732683464",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xE9732d4b1E7d3789004fF029f032bA3034db059c": "18"
+      }
+    },
+    "0xea8126fe3949Ef575408B742595c5c55403807ff": {
+      "sqrtPriceX96": "106082443747950932112441681356583",
+      "tick": "143999",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1897607259886904017412",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xE9732d4b1E7d3789004fF029f032bA3034db059c": "18"
+      }
+    }
+  },
+  {
+    "0x1BEcf1Ac50F31C3441181563F9D350dDF72a2Bfa": {
+      "sqrtPriceX96": "311867885120393021279436386",
+      "tick": "-110756",
+      "observationIndex": "1",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2154636938033116739091",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb17548c7b510427baac4e267bea62e800b247173": "18"
+      }
+    },
+    "0xe9C219B5a3D02B48D26A94992337181b8DD573d3": {
+      "sqrtPriceX96": "773031332524701685805178417",
+      "tick": "-92600",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17592186044416",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xb17548c7b510427baac4e267bea62e800b247173": "18"
+      }
+    }
+  },
+  {
+    "0xfc3d0cd242AEB083156f359BAF3F187F40eCBdc7": {
+      "sqrtPriceX96": "349001746222565705677277234",
+      "tick": "-108506",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "132401729917822225",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x993864e43caa7f7f12953ad6feb1d1ca635b875f": "18"
+      }
+    },
+    "0x4b9d0663ACb7a774C327B679D423993c2A11A263": {
+      "sqrtPriceX96": "320754542990634314198809010",
+      "tick": "-110194",
+      "observationIndex": "1",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "19090179237271328410",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x993864e43caa7f7f12953ad6feb1d1ca635b875f": "18"
+      }
+    }
+  },
+  {
+    "0xEF41f14369F4abCFf4E0B2F6f07cA73a492643A7": {
+      "sqrtPriceX96": "19873773904659313148584532242",
+      "tick": "-27661",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "129224396894678390",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xd29da236dd4aac627346e1bba06a619e8c22d7c5": "9"
+      }
+    },
+    "0x961eC3bb28C9E98A040c4bDEd38917aA96B791bE": {
+      "sqrtPriceX96": "40838288976454620513148354984",
+      "tick": "-13255",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2866934169502687665",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xd29da236dd4aac627346e1bba06a619e8c22d7c5": "9"
+      }
+    }
+  },
+  {
+    "0x788f0399b9f012926e255D9F22ceea845b8f7a32": {
+      "sqrtPriceX96": "21204304331194662581461303757606",
+      "tick": "111798",
+      "observationIndex": "0",
+      "observationCardinality": "2",
+      "observationCardinalityNext": "2",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "2569468198794634079",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf418588522d5dd018b425E472991E52EBBeEEEEE": "18"
+      }
+    },
+    "0x0C69e0438eE67A1881BB686aD4B87A9e0772DeE4": {
+      "sqrtPriceX96": "2495287525469261766902255224107",
+      "tick": "68999",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "2773895282276154424",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf418588522d5dd018b425E472991E52EBBeEEEEE": "18"
+      }
+    }
+  },
+  {
+    "0xaa31e2B7a95FD88b8b918e24E082A5E5beb29035": {
+      "sqrtPriceX96": "79228162514264337593543950336",
+      "tick": "0",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "1810",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9": "18"
+      }
+    },
+    "0xf5Dae9E48D268f1b607f19D8bf22f0DFb904147D": {
+      "sqrtPriceX96": "79228162514264337593543950336",
+      "tick": "0",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "338639",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xf819d9cb1c2a819fd991781a822de3ca8607c3c9": "18"
+      }
+    }
+  },
+  {
+    "0x46077fccD46bC963d32456f931C13324786F8baB": {
+      "sqrtPriceX96": "257520552263036529876649325531374",
+      "tick": "161738",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "148642564499657175657457",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe": "18"
+      }
+    },
+    "0x9f4806Ea33Ea88FBd10E66bBf6B559203Ed694f2": {
+      "sqrtPriceX96": "283558694029804120741983123678616",
+      "tick": "163665",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "863469451953767976",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe": "18"
+      }
+    }
+  },
+  {
+    "0x9e0905249CeEFfFB9605E034b534544684A58BE6": {
+      "sqrtPriceX96": "6495007266311464238967825861280",
+      "tick": "88133",
+      "observationIndex": "37",
+      "observationCardinality": "75",
+      "observationCardinalityNext": "75",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "828512036483546479",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": "8"
+      }
+    },
+    "0x82743c07BF3Be4d55876F87bca6cce5F84429bD0": {
+      "sqrtPriceX96": "6695473579394717319132258144487",
+      "tick": "88741",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "1366125597250316",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": "8"
+      }
+    }
+  },
+  {
+    "0x7995430a85156b2D40D5bB701608788cf84019E3": {
+      "sqrtPriceX96": "497483508406731987519415",
+      "tick": "-239578",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "830940810041209774",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8": "18"
+      }
+    },
+    "0x2a9d2ba41aba912316D16742f259412B681898Db": {
+      "sqrtPriceX96": "261477718065481056318128",
+      "tick": "-252443",
+      "observationIndex": "66",
+      "observationCardinality": "100",
+      "observationCardinalityNext": "100",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "24741681595003131061664806",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8": "18"
+      }
+    }
+  },
+  {
+    "0x8dB1b906d47dFc1D84A87fc49bd0522e285b98b9": {
+      "sqrtPriceX96": "1680346090102502261607273081",
+      "tick": "-77071",
+      "observationIndex": "92",
+      "observationCardinality": "180",
+      "observationCardinalityNext": "180",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "56505909199138561938",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": "18"
+      }
+    },
+    "0x9496D107a4b90c7d18c703e8685167f90ac273B0": {
+      "sqrtPriceX96": "1673035969863174586461185604",
+      "tick": "-77158",
+      "observationIndex": "9",
+      "observationCardinality": "10",
+      "observationCardinalityNext": "10",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "64421358385899327384",
+      "adresy": {
+        "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "18",
+        "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8": "18"
+      }
+    }
+  },
+  {
+    "0x56534741CD8B152df6d48AdF7ac51f75169A83b2": {
+      "sqrtPriceX96": "2611313562516960827570734609865",
+      "tick": "69909",
+      "observationIndex": "39",
+      "observationCardinality": "56",
+      "observationCardinalityNext": "56",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "624787670551",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    },
+    "0x9Db9e0e53058C89e5B94e29621a205198648425B": {
+      "sqrtPriceX96": "2613016691782520563670776107428",
+      "tick": "69922",
+      "observationIndex": "30",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "9369426709958",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xdac17f958d2ee523a2206206994597c13d831ec7": "6"
+      }
+    }
+  },
+  {
+    "0x9a772018FbD77fcD2d25657e5C547BAfF3Fd7D16": {
+      "sqrtPriceX96": "2611926587403263112211432598887",
+      "tick": "69913",
+      "observationIndex": "133",
+      "observationCardinality": "150",
+      "observationCardinalityNext": "150",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "8079110408416",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x99ac8cA7087fA4A2A1FB6357269965A2014ABc35": {
+      "sqrtPriceX96": "2612975781489929968770105118075",
+      "tick": "69921",
+      "observationIndex": "59",
+      "observationCardinality": "600",
+      "observationCardinalityNext": "600",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "15440417917472",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x9a772018FbD77fcD2d25657e5C547BAfF3Fd7D16": {
+      "sqrtPriceX96": "2611926587403263112211432598887",
+      "tick": "69913",
+      "observationIndex": "133",
+      "observationCardinality": "150",
+      "observationCardinalityNext": "150",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "8079110408416",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0xCBFB0745b8489973Bf7b334d54fdBd573Df7eF3c": {
+      "sqrtPriceX96": "2609877476226493117714360495995",
+      "tick": "69898",
+      "observationIndex": "9",
+      "observationCardinality": "80",
+      "observationCardinalityNext": "80",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17512771866",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x99ac8cA7087fA4A2A1FB6357269965A2014ABc35": {
+      "sqrtPriceX96": "2612975781489929968770105118075",
+      "tick": "69921",
+      "observationIndex": "59",
+      "observationCardinality": "600",
+      "observationCardinalityNext": "600",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "15440417917472",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0xCBFB0745b8489973Bf7b334d54fdBd573Df7eF3c": {
+      "sqrtPriceX96": "2609877476226493117714360495995",
+      "tick": "69898",
+      "observationIndex": "9",
+      "observationCardinality": "80",
+      "observationCardinalityNext": "80",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "10000",
+      "liquidity": "17512771866",
+      "adresy": {
+        "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x4622Df6fB2d9Bee0DCDaCF545aCDB6a2b2f4f863": {
+      "sqrtPriceX96": "4444028643560783333003717",
+      "tick": "-195781",
+      "observationIndex": "8",
+      "observationCardinality": "20",
+      "observationCardinalityNext": "20",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "196325641229538",
+      "adresy": {
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x173821f6aD4c5324cd35753A9FD12D92f2eaAB29": {
+      "sqrtPriceX96": "4466642678185050635446056",
+      "tick": "-195679",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "13082831101084",
+      "adresy": {
+        "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0": "18",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  },
+  {
+    "0x54E58c986818903d2d86dAfE03f5F5E6C2cA6710": {
+      "sqrtPriceX96": "2404061186365150696981688058",
+      "tick": "-69907",
+      "observationIndex": "0",
+      "observationCardinality": "1",
+      "observationCardinalityNext": "1",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "500",
+      "liquidity": "76095533",
+      "adresy": {
+        "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    },
+    "0x4548280AC92507C9092a511C7396Cbea78FA9E49": {
+      "sqrtPriceX96": "2401114110972305353436968735",
+      "tick": "-69932",
+      "observationIndex": "10",
+      "observationCardinality": "51",
+      "observationCardinalityNext": "51",
+      "feeProtocol": "0",
+      "unlocked": true,
+      "fee": "3000",
+      "liquidity": "778580847751",
+      "adresy": {
+        "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf": "8",
+        "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": "6"
+      }
+    }
+  }
+]

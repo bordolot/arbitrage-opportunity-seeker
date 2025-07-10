@@ -392,8 +392,8 @@ async function find() {
                     (firstPoolHigherPrice ? fee_2 : fee_1),
                     toChecksummedAddress(token0),
                     toChecksummedAddress(token1),
-                    poolsForFlash[0],
-                    (poolsForFlash.length > 1 ? poolsForFlash[0] : "there is no other pool you can flash"),
+                    (poolsForFlash.length != 0 ? poolsForFlash[0] : "there is no pool you can flash"),
+                    (poolsForFlash.length > 1 ? poolsForFlash[1] : "there is no other pool you can flash"),
                     step.amountIn.toString(),
                     (step.amountOut - step.amountIn).toString()
                 ));

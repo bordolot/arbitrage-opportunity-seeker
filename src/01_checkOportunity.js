@@ -134,7 +134,7 @@ async function checkOportunity(isTest = true) {
 
             await fs.writeJSON(outputFile, existingResults, { spaces: 2 });
 
-            const diff = result_1[0] - result_2[0];
+            const diff = result_1[1] - result_2[1];
             const absDiff = diff < 0n ? -diff : diff;
 
             if (absDiff > maxDiff) {
@@ -142,7 +142,7 @@ async function checkOportunity(isTest = true) {
                 maxPair = [pool_1, pool_2];
             }
 
-            console.log(`Iteration ${i + 1}/${combinations.length} finished. The price difference: ${absDiff}`);
+            console.log(`Iteration ${i + 1}/${combinations.length} finished. The tick difference: ${absDiff}`);
             await sleep(100);
 
         } catch (err) {
@@ -155,7 +155,7 @@ async function checkOportunity(isTest = true) {
         }
     }
 
-    console.log(`The highest sqrt price difference: ${maxDiff.toString()}`);
+    console.log(`The highest tick difference: ${maxDiff.toString()}`);
     console.log(`Contracts:`, maxPair);
 
     console.log(`====================================`);

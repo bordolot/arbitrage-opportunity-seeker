@@ -57,7 +57,7 @@ Each pair element in the JSON file has the following structure:
 
 To get the price at the end of the specified block number for each pool in a pair:
 ```bash
-#for 29 pairs
+#for 7 pairs
 npm run scanpoolstest
 ```
 
@@ -85,7 +85,7 @@ npm run getpoolsdata {lowerTickDifference} {higherTickDifference}
 
 Price are defined by `sqrtPriceX96` or `tick` parameter.
 Here you can specify `tick` difference you are looking for - lower and upper bounds.
-By default `lowerTickDifference = 1000`
+By default `lowerTickDifference = 500`
 By default `higherTickDifference = 4000`
 You can change the default values in the `./src/02_calculateTickDiffs.js` file.
 

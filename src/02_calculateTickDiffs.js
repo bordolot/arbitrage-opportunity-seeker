@@ -5,7 +5,7 @@ const path = require('path');
 const { opportunityResultsFile, poolsTicksLiqsFile, outDir, directoryExists } = require('./paths');
 
 
-const LOWER_DIFF = 1000;
+const LOWER_DIFF = 500;
 const HIGHER_DIFF = 4000;
 
 
