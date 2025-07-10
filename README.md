@@ -71,7 +71,7 @@ npm run scanpools
 This command creates the `./out/opportunityResults.json` file, which contains price data necessary for further operations.
 
 
-3. Get additional data for pairs where the price difference meets your criteria.
+4. Get additional data for pairs where the price difference meets your criteria.
 
 ```bash
 npm run getpoolsdata
@@ -91,7 +91,7 @@ You can change the default values in the `./src/02_calculateTickDiffs.js` file.
 
 This command creates the `./out/poolsTicksLiqs.json` file which contains data required for swap simulations.
 
-4. Run swap simulations to get data necessary to perform arbitrage.
+5. Run swap simulations to get data necessary to perform arbitrage.
 
 ```bash
 npm run simulate
