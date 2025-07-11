@@ -36,7 +36,7 @@ echo "BLOCK_NUMBER = {block_number}" >> .env
 
 There is ready-made file with a combiantion of 610 pool pairs on uniswap v3 located at 
 `./inputFiles/combinations_uniswapv3.json`.
-There is also a file with 29 pairs for testing purposes.
+There is also a file with 7 pairs for testing purposes.
 
 You can remove pairs from these files or add your own as long as aech pool is a uniswap v3 pool, fees for these pools are different and each pool represent the same token0 and token1.
 
